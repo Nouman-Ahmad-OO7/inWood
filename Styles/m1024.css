@@ -1,0 +1,279 @@
+@media (max-width: 1024px) {
+  .container {
+    width: 1024px;
+  }
+  .cont1 {
+    padding: 80px 40px;
+    height: 661px;
+  }
+  .sec1 {
+    gap: 88px;
+  }
+  .links {
+    display: none;
+  }
+  .bars {
+    display: block;
+  }
+  h1 {
+    font-size: 48px;
+  }
+  .cont2 {
+    height: 1660px;
+    padding: 100px 40px;
+    gap: 99px;
+  }
+  .sec2 {
+    display: grid;
+    width: auto;
+  }
+  .sec2list {
+    width: 791px;
+    height: 136px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 46px;
+    justify-content: center;
+  }
+
+  .sec2SideBar {
+    width: 791px;
+    height: 376px;
+    display: grid;
+    justify-items: center;
+    margin: 0 auto;
+  }
+  .cont2 h2 {
+    font-size: 48px;
+  }
+  .sec2grids {
+    width: 944px;
+    height: 883px;
+  }
+
+  .sec2gBox {
+    width: 462px;
+    height: 277px;
+    border-radius: 10px;
+  }
+  .cont3 {
+    height: 1251px;
+    padding: 100px 40px;
+  }
+  .sec3 {
+    height: 585px;
+    padding: 0px 0px 0px 20px;
+    gap: 32px;
+  }
+  .sec3Box {
+    width: 416px;
+    height: 585px;
+    padding: 60px 40px;
+    gap: 40px;
+    border-radius: 16px;
+  }
+
+  .cont4 {
+    height: 1111px;
+    padding: 100px 40px;
+  }
+  .sec4 {
+    display: grid;
+    width: 944px;
+    height: 712px;
+    gap: 100px;
+  }
+  .sec4left {
+    display: flex;
+    width: 944px;
+    height: 395px;
+    gap: 20px;
+  }
+
+  .sec4leftImg {
+    width: 583px;
+    height: 395px;
+  }
+
+  .sec4leftData {
+    width: 341px;
+    height: 395px;
+    display: grid;
+    padding: 0 10px;
+  }
+  .description {
+    display: none;
+  }
+  #describe {
+    display: block;
+    width: 341px;
+    height: 125px;
+    gap: 25px;
+  }
+
+  #describe p {
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: -0.02em;
+    text-align: left;
+  }
+
+  #describe h3 {
+    font-family: Open Sans;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 27.6px;
+    letter-spacing: -0.02em;
+    text-align: left;
+  }
+  .rating img {
+    width: 28px;
+    height: 28px;
+  }
+  .sec4right {
+    width: 944px;
+    height: 217px;
+    gap: 32px;
+    display: flex;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    scrollbar-width: none;
+    align-items: baseline;
+  }
+  .pakage {
+    gap: 10px;
+  }
+  .pkgsImg {
+    width: 241px;
+    height: 183px;
+    border-radius: 10px;
+  }
+
+  .sec5 {
+    justify-content: unset;
+  }
+
+  .sec5left {
+    width: 400px;
+    height: 503px;
+    border-radius: 0px 16px 16px 0px;
+  }
+  .sec5RB1 {
+    width: 382px;
+    height: 537px;
+    padding: 40px 0px;
+    border-radius: 10px;
+  }
+  .sec5RBox {
+    width: 360px;
+    height: 507px;
+    padding: 4px 0px 0px 0px;
+    gap: 4px;
+    border-radius: 16px;
+  }
+  .cont6 {
+    height: 640px;
+    padding: 100px 40px;
+  }
+  .cont6 h2 {
+    font-family: Playfair Display;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 62px;
+    text-align: center;
+  }
+
+  .cont6 h3 {
+    font-family: Playfair Display;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    text-align: center;
+  }
+
+  .cont6 p {
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23px;
+    text-align: center;
+  }
+
+  .sec6box {
+    width: 315px;
+    height: 274px;
+    gap: 32px;
+  }
+  .cont7 {
+    width: 1019px;
+    height: 975px;
+    padding: 100px 40px;
+  }
+  .cont7 h2 {
+    font-family: Playfair Display;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 62px;
+    text-align: center;
+  }
+  .cont7 h3 {
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: center;
+  }
+  .sec7About {
+    width: 467px;
+    height: 206px;
+  }
+
+  .sec7About p {
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23px;
+    text-align: left;
+  }
+
+  .s3c7Hashtage {
+    width: 223px;
+    height: 49px;
+    gap: 11px;
+  }
+
+  .sec7About h4 {
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28.13px;
+    text-align: left;
+  }
+
+  .sec7About h5 {
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 28.13px;
+    text-align: left;
+  }
+
+  .sec7 {
+    width: auto;
+    align-items: unset;
+  }
+
+  .sec9 {
+    width: 944px;
+    height: 238px;
+    align-items: unset;
+  }
+
+  .cont9 { 
+    height: 464px; 
+    padding: 100px 40px 32px 40px;
+    gap: 69px; 
+  }
+ }
